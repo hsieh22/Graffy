@@ -1,0 +1,7 @@
+matplotlib==3.7.0
+numpy==1.26.2
+Pillow==10.1.0
+Requests==2.31.0
+scikit_image==0.19.3
+fastapi==0.108.0
+uvicorn[standard]==0.25.0
